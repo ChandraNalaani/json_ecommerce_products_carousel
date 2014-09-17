@@ -4,6 +4,8 @@
 <meta charset="utf-8" />
 	<title>Ecommerce products carousel using HTML5, JSON, jQuery and Mustache.js</title>
 	<link rel="stylesheet" href="style.css" />
+	<link href='http://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 </head>
 <body>
 
@@ -18,7 +20,7 @@
 		<div class="product">
 			<img src="images/{{image}}.jpg" alt="{{brand}} {{title}}" />
 			<h3>{{brand}} {{title}}</h3>
-			<p>Price: &#36;{{price}}</p>
+			<p class="price">Price: &#36;{{price}}</p>
 			<p>{{description}}</p>
 		</div>
 	{{/products}}
