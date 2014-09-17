@@ -5,5 +5,61 @@
 		"price" : 276.85,
 		"description" : "An ideal size for a variety of adventures, the Osprey Aether 70 backpack boasts a plethora of features, incredible suspension technology, and a super-adjustable harness and hipbelt to make it a top choice for backpackers of all abilities.",
 		"item" : 19467324
+	},
+	{
+		"brand" : "Therm-A-Rest",
+		"title" : "Neoair XTherm Sleeping Pad",
+		"price" : 213.95,
+		"description" : "The warmest mattress in the NeoAir collection, the MSR NeoAir Xtherm insulates you during winter expeditions while keeping the weight down.",
+		"item" : 16568327
+	},
+	{
+		"brand" : "Western Mountaineering",
+		"title" : "Apache 15&deg; Sleeping Bag",
+		"price" : 640.00,
+		"description" : "Pushing the boundaries for a 2- to 3-season bag, the Western Mountaineering Apache uses Gore WindStopper technology to protect you from those early-morning chills.",
+		"item" : 47158036
+	},
+	{
+		"brand" : "Nemo",
+		"title" : "Alti Storm 2-Person Tent",
+		"price" : 429.98,
+		"description" : "If your definition of adventure includes heavy snows, wind-driven sand, or sideways rain, the Nemo Alti Storm is the perfect armor for your battle.",
+		"item" : 38554129
+	},
+	{
+		"brand" : "Katadyn",
+		"title" : "Pocket Microfilter",
+		"price" : 319.95,
+		"description" : "Made of heavy duty materials, the Katadyn Pocket Microfilter is ideal for long lasting continuous use even under extreme circumstances.",
+		"item" : 18344023
+	},
+	{
+		"brand" : "Jetboil",
+		"title" : "Flash Personal Cooking System",
+		"price" : 99.95,
+		"description" : "Jetboil Flash is an all-in-one design, combining burner and cooking vessel in one compact unit.",
+		"item" : 18344023
+	},
+	{
+		"brand" : "Sea To Summit",
+		"title" : "Alphaset 3-Piece Cutlery Set",
+		"price" : 15.95,
+		"description" : "Forget plastic cutlery, the Sea to Summit AlphaSet utensils bring back some class to mealtimes.",
+		"item" : 21354128
+	},
+	{
+		"brand" : "AMK",
+		"title" : "Fundamentals First Aid Kit",
+		"price" : 95.95,
+		"description" : "Quickly administer first aid with Adventure Medical's well-organized and popular first aid kit. Holds enough supplies for an extended adventure. Excellent value for a package so loaded with supplies.",
+		"item" : 38344076
+	},
+	{
+		"brand" : "Motorola",
+		"title" : "Talkabout 22-Channel FRS/GMRS 2-Way Radios (Pair)",
+		"price" : 79.99,
+		"description" : "Keep in touch while hiking or camping with these 2-way radios that feature 22 channels with 7 NOAA channels for weather and emergency information and iVOX controls for hands-free convenience.",
+		"item" : 28457193
 	}
 ]}
