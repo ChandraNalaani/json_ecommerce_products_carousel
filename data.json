@@ -1,0 +1,9 @@
+{ "products" : [
+	{
+		"brand" : "Osprey",
+		"title" : "Aether 70 Backpack",
+		"price" : 276.85,
+		"description" : "An ideal size for a variety of adventures, the Osprey Aether 70 backpack boasts a plethora of features, incredible suspension technology, and a super-adjustable harness and hipbelt to make it a top choice for backpackers of all abilities.",
+		"item" : 19467324
+	}
+]}
