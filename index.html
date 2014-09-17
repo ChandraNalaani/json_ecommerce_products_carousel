@@ -29,6 +29,7 @@
 $(function() {
 	$getJSON('data.json', function(data) {
 		var template = $('#productstpl').html();
+		var html = Mustache.to_html(template, data);
 	});
 });
 </script>
