@@ -10,6 +10,17 @@
 	<div id="carousel"></div>
 </div>
 
+<script id="productstpl" type="text/template">
+	{{#products}}
+		<div class="product">
+			<img src="images/{{image}}.jpg" alt="{{brand}} {{title}}" />
+			<h3>{{brand}} {{title}}</h3>
+			<p>Price: &#36;{{price}}</p>
+			<p>{{description}}</p>
+		</div>
+	{{/products}}
+</script>
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascr" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js" type="text/javascript"></script>
