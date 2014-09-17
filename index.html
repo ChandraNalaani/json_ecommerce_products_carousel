@@ -21,18 +21,20 @@
 	{{/products}}
 </script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascr" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
+
 $(function() {
-	$getJSON('data.json', function(data) {
+	jQuery.getJSON('data.json', function(data) {
 		var template = $('#productstpl').html();
 		var html = Mustache.to_html(template, data);
 		$('#carousel').html(html);
 	});
 });
+
 </script>
 
 </body>
